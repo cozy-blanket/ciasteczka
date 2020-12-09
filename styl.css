@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 128, 128);
+    background-color: rgb(199, 185, 253);
+    padding: 35px;
+}
+
+div.calastrona {
+text-align: left; 
+ 
+}
+
+div.tresc {w
+width: 750
+}
+
+div.banner {
+         padding: 35px 15px;
+
+}
+
+h1 { 
+color: rgb(266, 266, 266);
+}
+
+/* unvisited link */
+a:link {
+font-weight:bold;
+text-decoraion: none;
+color: rgb(213, 255, 191)
+}
+
+/* visited link */
+a:visited {
+color: rgb(223, 255, 164)
+
+
+}
+
+/* mouse over link */
+a:hover {
+color: rgb(254, 156, 227)
+}
+
+/* selected link */
+a:active {
+
+}
